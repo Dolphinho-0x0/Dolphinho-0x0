@@ -1,4 +1,4 @@
-# Eu ai
+# eu
 
 Hey there! I'm using GitHub.
 
